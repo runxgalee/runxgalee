@@ -3,6 +3,24 @@
 ## 👨‍💻 About Me
 Software Engineer passionate about building scalable systems and exploring new technologies. I enjoy working on concurrency patterns, UI components, and competitive programming.
 
+
+## 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=runxgalee&layout=compact&theme=radical)
+
+## 📊 Skills Proficiency
+
+```
+Go                ████████████████████ 95%
+TypeScript        ████████████████░░░░ 80%
+Backend Dev       ████████████████████ 90%
+Frontend Dev      ███████████████░░░░░ 75%
+Cloud (AWS)       ██████████████░░░░░░ 70%
+Database          ████████████████░░░░ 80%
+DevOps            ████████████░░░░░░░░ 60%
+Algorithms        ███████████████░░░░░ 75%
+```
+
 ---
 
 ## 🛠️ Technical Skills
@@ -19,11 +37,10 @@ Software Engineer passionate about building scalable systems and exploring new t
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Tools & Technologies
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -44,20 +61,6 @@ Software Engineer passionate about building scalable systems and exploring new t
 | **Competitive Programming** | Algorithm Design, Rust, Haskell |
 | **UI/UX** | Component Libraries, Accessible Design (Radix Primitives) |
 
-
-## 📊 Skills Proficiency
-
-```
-Go                ████████████████████ 95%
-TypeScript        ████████████████░░░░ 80%
-Backend Dev       ████████████████████ 90%
-Frontend Dev      ███████████████░░░░░ 75%
-Cloud (AWS)       ██████████████░░░░░░ 70%
-Database          ████████████████░░░░ 80%
-DevOps            ████████████░░░░░░░░ 60%
-Algorithms        ███████████████░░░░░ 75%
-```
-
 ---
 
 ## 🌱 Currently Learning
@@ -74,8 +77,3 @@ Algorithms        ███████████████░░░░░ 7
 - Zenn: https://zenn.dev/run_eagler
 ---
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=runxgalee&layout=compact&theme=radical)
-
----
