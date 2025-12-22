@@ -53,22 +53,18 @@ Algorithms        ███████████████░░░░░ 7
 ### Areas of Expertise
 | Domain | Technologies |
 |--------|-------------|
-| **Backend Development** | Go, PHP (Laravel), GraphQL, REST APIs |
-| **Frontend Development** | TypeScript, Vue.js, React, Tailwind CSS, Radix UI |
+| **Backend Development** | gqlgen, gin, echo, job-queue |
+| **Frontend Development** | TypeScript, React, Tailwind CSS, Vue.js, Ant Design, Material UI, Quaser|
 | **Concurrency & Performance** | Go Concurrency Patterns, Rate Limiting Algorithms |
-| **Cloud & DevOps** | AWS (Lambda, Billing), Slack Integration |
-| **Database** | GORM, MySQL, PostgreSQL, Database Migrations |
-| **Competitive Programming** | Algorithm Design, Rust, Haskell |
-| **UI/UX** | Component Libraries, Accessible Design (Radix Primitives) |
-
+| **Clouds** | AWS, Google Cloud |
+| **Database** | PostgreSQL, MySQL, DynamoDB, Firestore, Elastic Search |
+| **Observability** | Sentry, prometheus|
 ---
 
 ## 🌱 Currently Learning
 - Advanced Concurrency Patterns in Go
-- Modern Frontend Architecture
-- Cloud-Native Application Design
-- System Design & Scalability
-
+- Observable system
+- Claude Code Skills
 ---
 
 ## 📫 How to reach me
