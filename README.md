@@ -1,7 +1,7 @@
 # Hi there, I'm runxgalee 👋
 
 ## 👨‍💻 About Me
-Software Engineer passionate about building scalable systems and exploring new technologies. I enjoy working on concurrency patterns, UI components, and competitive programming.
+Software Engineer passionate about building scalable systems and exploring new technologies. I enjoy working on concurrency patterns, terraform, claude code developement.
 
 
 ## 📈 GitHub Stats
