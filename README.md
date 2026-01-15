@@ -1,8 +1,8 @@
 # Hi there, I'm runxgalee 👋
 
 ## 👨‍💻 About Me
-Software Engineer passionate about building scalable systems and exploring new technologies. I enjoy working on concurrency patterns, terraform, claude code developement.
 
+I’m a Go-driven full-stack engineer.
 
 ## 📈 GitHub Stats
 
@@ -39,18 +39,22 @@ Software Engineer passionate about building scalable systems and exploring new t
 ### Areas of Expertise
 | Domain | Technologies |
 |--------|-------------|
-| **Backend Development** | gqlgen, gin, echo, job-queue |
-| **Frontend Development** | TypeScript, React, Tailwind CSS, Vue.js, Ant Design, Material UI, Quaser|
-| **Concurrency & Performance** | Go Concurrency Patterns, Rate Limiting Algorithms |
+| **Backend Development** | gqlgen, gin, echo, goa, gRPC, kubernetes, Flask, Spring Framework, Laravel |
+| **Frontend Development** | TypeScript, React, Nextjs, Vue.js, Tailwind CSS, Angular JS, Ant Design, Material UI, Quaser|
 | **Clouds** | AWS, Google Cloud |
-| **Database** | PostgreSQL, MySQL, DynamoDB, Firestore, Elastic Search |
-| **Observability** | Sentry, prometheus|
+| **Database** | PostgreSQL, MySQL, DynamoDB, Firestore, Elastic Search|
+| **Cache**    | CloudFront, Redis|
+| **Queue**    | Pubsub, RabbitMQ |
+| **CI-CD**    | Github Actions, CircleCI, CodeBuild, ArgoCD|
+| **Observability** | Sentry, AWS Monitoring Dashboard|
+| **AI Tool**  | Claude Code, ChatGPT, Gemini, Github Copilot|
 ---
 
 ## 🌱 Currently Learning
-- Advanced Concurrency Patterns in Go
 - Observable system
+- terraform
 - Claude Code
+- Multi-Agent System
 ---
 
 ## 📫 How to reach me
