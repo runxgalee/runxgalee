@@ -44,6 +44,7 @@ I’m a Go-driven full-stack engineer.
 | **Clouds** | AWS, Google Cloud |
 | **Database** | PostgreSQL, MySQL, DynamoDB, Firestore, Elastic Search|
 | **Cache**    | CloudFront, Redis|
+| **IaC**      | AWS CDK, terraform |
 | **Queue**    | Pubsub, RabbitMQ |
 | **CI-CD**    | Github Actions, CircleCI, CodeBuild, ArgoCD|
 | **Observability** | Sentry, AWS Monitoring Dashboard|
