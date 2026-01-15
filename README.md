@@ -6,22 +6,8 @@ Software Engineer passionate about building scalable systems and exploring new t
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=runxgalee&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-nine-jet-92.vercel.app/api/top-langs/?username=runxgalee&layout=compact&theme=radical)
 
-## 📊 Skills Proficiency
-
-```
-Go                ████████████████████ 95%
-TypeScript        ████████████████░░░░ 80%
-Backend Dev       ████████████████████ 90%
-Frontend Dev      ███████████████░░░░░ 75%
-Cloud (AWS)       ██████████████░░░░░░ 70%
-Database          ████████████████░░░░ 80%
-DevOps            ████████████░░░░░░░░ 60%
-Algorithms        ███████████████░░░░░ 75%
-```
-
----
 
 ## 🛠️ Technical Skills
 
@@ -64,7 +50,7 @@ Algorithms        ███████████████░░░░░ 7
 ## 🌱 Currently Learning
 - Advanced Concurrency Patterns in Go
 - Observable system
-- Claude Code Skills
+- Claude Code
 ---
 
 ## 📫 How to reach me
